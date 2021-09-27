@@ -1,0 +1,25 @@
+{
+  "name": "chiroruxx/php-scope-function",
+  "description": "Scope functions for PHP.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "chiro",
+      "email": "dormir.kazu@gmail.com"
+    }
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "^9.5.10"
+  },
+  "autoload": {
+    "psr-4": {
+      "Chiroruxx\\ScopeFunction\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Chiroruxx\\ScopeFunction\\Test\\": "test/"
+    }
+  }
+}
