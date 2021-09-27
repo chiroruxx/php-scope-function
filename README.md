@@ -2,7 +2,7 @@
 
 ## Installation
 ```
-composer require chiroruxx/php-function
+composer require chiroruxx/php-scope-function
 ```
 
 ## Usage
